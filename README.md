@@ -33,5 +33,6 @@ EOF  help  quit
 (hbnb) quit
 $
 ```
-author: https://github.com/mirrie21
+author: https://github.com/MiriraiMpoki/AirBnB_clone
+
 author: Movin Odida
